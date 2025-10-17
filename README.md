@@ -22,7 +22,6 @@ El backend está desarrollado en **Laravel 12+**, con soporte para **JWT Authent
 1. **Clonar el repositorio**
    ```bash
    git clone <url-del-repo>
-   cd backend
    ```
 
 2. **Instalar dependencias de PHP**
