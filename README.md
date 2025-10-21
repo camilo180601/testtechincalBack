@@ -45,9 +45,10 @@ El backend está desarrollado en **Laravel 12+**, con soporte para **JWT Authent
    DB_PASSWORD=
    ```
 
-4. **Generar la key de la aplicación**
+4. **Generar la key de la aplicación y de JWT**
    ```bash
    php artisan key:generate
+   php artisan jwt:secret
    ```
 
 5. **Ejecutar migraciones**
